@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,CCTV4K
 http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=4005
-#EXTINF:-1,CCTV4K超高清
+#EXTINF:-1,CCTV4K
 http://8.210.12.190:666/diyroms/dll/ysp/gehua.php?id=CCTV4K_25000
 #EXTINF:-1,CCTV16-4K
 http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=4010
@@ -11,6 +11,8 @@ http://8.210.12.190:666/diyroms/dll/ysp/gehua.php?id=CCTV16UHD_25000
 http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=GDZYHD4K_38000
 #EXTINF:-1,广东综艺4K
 http://8.210.12.190:666/moss/dll/gd.php?id=GDZYHD4K_38000
+#EXTINF:-1,北京纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,CCTV4K
@@ -23,6 +25,10 @@ http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 http://8.210.12.190:666/diyroms/dll/jsgs.php?id=iptv4k
 #EXTINF:-1,四川樂享4K
 http://nas.jdshipin.com:8801/iptv.php?id=lx4k
+#EXTINF:-1,湖南IPTV4K
+http://nas.jdshipin.com:8801/iptv.php?id=hn4k
+#EXTINF:-1,雲南4K
+http://nas.jdshipin.com:8801/iptv.php?id=yn4k
 #EXTINF:-1,華數4K
 http://r.jdshipin.com/Lqdwf
 #EXTINF:-1,鳳凰資訊
@@ -281,3 +287,4 @@ http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=2069_1500
 http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=2070_1500
 #EXTINF:-1,广州共享课堂高二
 http://8.210.12.190:666/moss/dll/gudou.php?id=364&id=2071_1500
+
